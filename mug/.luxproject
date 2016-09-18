@@ -1,9 +1,0 @@
-#LXProject#
-Associate image Images
-Associate irrad IrradianceCaches
-Associate movie Movies
-Associate image@renderframes Renders/Frames
-Associate movie@rendermovies Renders/Movies
-Associate movie_st@rendermovies Renders/Movies
-Associate movie_nost@rendermovies Renders/Movies
-Associate scene Scenes
